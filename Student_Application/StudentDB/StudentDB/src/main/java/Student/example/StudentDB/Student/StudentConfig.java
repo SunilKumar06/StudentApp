@@ -24,6 +24,7 @@ public class StudentConfig {
                     "Hemalathahariram@Gmail.com");
             studentRepository.saveAll(List.of(Sunil, Hema));
             System.out.println("Success: Student Records Saved");
+            System.out.println("Success");
         };
     }
 
